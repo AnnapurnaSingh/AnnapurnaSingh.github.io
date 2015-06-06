@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "HaiBoo!!!"
+description: My HaiBoo App uses Ruby on Rails, Nokogiri, Bootstrap, jQuery and Ajax to create hybrid Haikus (aka HaiBoos) that you can text to your Boo(s)!
+date:   2015-06-06 10:34:07
+categories: Ruby on Rails Nokogiri Bootstrap jQuery AJAX
+---
+
+**Screenshot**
+
+<img src="/images/HaiBooMaker.png" alt="HaiBoo Maker screenshot">
+
+**Description**
+
+HaiBoo!!!
+(A new Haiku / for you / to send / to your Boo!!!)
+
+I used Ruby on Rails and Bootstrap to serve content and theme my application. I also used Nokogiri to scrape websites for open-source Haikus, create an API with them, and used AJAX calls to take 3 different lines from 3 different Haikus to create a new Hybrid Frankenstein Haiku (called HaiBoo). I then used Nexmo (in colloboration with the incredible Sarah Bump) to allow the user to text the HaiBoo to their Boo (or boos).
+
+**Technologies Used**
+
+- Used Ruby on Rails to serve static content with ERB
+
+- Used jQuery and AJAX
+
+- Used Bootstrap for theming the application
+
+- Used Nokogiri to scrape websites to create my API
+
+**Live Application**
+
+( add heroku/Digital Ocean link)
+
+**Link to repository**
+
+<a href="https://github.com/AnnapurnaSingh/HaiBooApp" target="_blank">https://github.com/AnnapurnaSingh/HaiBooApp</a>
