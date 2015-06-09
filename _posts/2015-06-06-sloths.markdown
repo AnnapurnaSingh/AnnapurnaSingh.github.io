@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I like Donuts and I cannot lie"
-description: do do donuts
+title:  "I like Sloths and I cannot lie"
+description: cute Sloth4Lyfe
 date:   2015-06-06 11:25:07
 categories: portfolio update
 ---
